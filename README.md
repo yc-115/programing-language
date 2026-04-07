@@ -25,3 +25,6 @@
 
 - **Part 2**  
   [成績一本通_Gradio](https://github.com/yc-115/programing-language/blob/7d7c380190c706fa93f5713500b3189c4690a0da/%E3%80%8CHW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part2_ipynb%E3%80%8D41371211H.ipynb)
+
+- **解說影片**  
+  [解說影片](https://youtu.be/ZMpZ8dQKdHk?si=M42sU0wI6F_oK9Uq)
