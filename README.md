@@ -35,3 +35,11 @@
 - [待辦清單與番茄鐘紀錄](https://github.com/yc-115/programing-language/blob/71e84e9019677be719783cf8ab0b392589fa4b56/%E3%80%8CHW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84_ipynb%E3%80%8D41371211H.ipynb)
 
 - [解說影片](https://youtu.be/ZsNAHzb5HJc)
+
+---
+
+### 作業四：文字資料小分析
+
+- [文字資料小分析](https://github.com/yc-115/programing-language/blame/d8edb41496328d29237471343fcd7ffbea5c0309/%E3%80%8CHW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88_ipynb%E3%80%8D41371211H.ipynb)
+
+- [解說影片](https://youtu.be/M0P_klkR6xU)
