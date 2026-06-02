@@ -40,6 +40,6 @@
 
 ### 作業四：文字資料小分析
 
-- [文字資料小分析](https://github.com/yc-115/programing-language/blame/d8edb41496328d29237471343fcd7ffbea5c0309/%E3%80%8CHW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88_ipynb%E3%80%8D41371211H.ipynb)
+- [文字資料小分析](https://github.com/yc-115/programing-language/blob/4ff69a82b81b241e3c0df61e34aae3a512e144d4/%E3%80%8CHW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88_ipynb%E3%80%8D41371211H.ipynb)
 
 - [解說影片](https://youtu.be/M0P_klkR6xU)
